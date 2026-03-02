@@ -1,6 +1,3 @@
-# GDtoGIF
-A Py Program That turn your Video in Google Drive into A 5 Sec HD Gif
-
 <h1>GD-TO-GIF</h1>
 <p>A Python Program That turn Your GD(Google Drive) 
     Video Into a GIF Using Only the Link</p>
